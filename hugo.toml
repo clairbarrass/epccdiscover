@@ -68,7 +68,7 @@ author_image = "images/banner-img.png"
 bio = "EPCC and ARCHER2 Outreach team"
 # Contact info
 mobile = ""
-email = "helpdesk@epcc.ed.ac.uk"
+email = "outreach@epcc.ed.ac.uk"
 address = "Bayes Centre, <br>47 Potterrow, <br>Edinburgh EH8 9BT"
 # Contact Form Action
 contact_form_action = "#"

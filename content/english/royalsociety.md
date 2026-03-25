@@ -1,6 +1,6 @@
 ---
 title: "Royal Society"
-date: 2019-05-14T14:46:10+06:00
+date: 2026-03-25T17:00:00+06:00
 description: "This is meta description"
 image: "images/author.jpg"
 layout: event

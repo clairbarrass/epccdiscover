@@ -48,3 +48,9 @@ weight = 5
 name = "About"
 url = "about/"
 weight = 3
+
+[[main]]
+name = "Events"
+url = "royalsociety/"
+weight = 4
+

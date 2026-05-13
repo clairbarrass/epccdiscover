@@ -7,7 +7,7 @@ layout: event
 ---
 
 <p align=center>
-<img src="../images/turbines.jpg" width="50%" align="center">
+<img src="../images/turbines.jpg" width="50%" align="center" alt="wind turbines">
 </p>
 
 ARCHER2 is the latest iteration of the UK National Supercomputing Service, and enables scientists to simulate the world around us in ways that are often impossible (or far too expensive) to study with physical experiments. ARCHER2 is regularly used to study topics such as how jet engines can be made more efficient, how we can design better nuclear reactors, how new drugs might work, how viruses spread, and the effects of climate change to name just a small few.
@@ -19,11 +19,11 @@ At our stand we will have a virtual reality science museum with a range of VR vi
 </p>
 
 <p align="center">
-<a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center"></a>
-<a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center"></a>
-<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
+<a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center" alt="Virtual tour"></a>
+<a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center" alt="duck game"></a>
+<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center" alt="data centre game"></a>
 </p>
 
 <p align="center">
-<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center" alt="home"></a>
 </p>

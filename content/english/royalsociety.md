@@ -9,7 +9,7 @@ layout: event
 
 
 <p align="center">
-<img src="../images/ARCHER2 cabinets.jpg" width="70%" align="center">
+<img src="../images/ARCHER2 cabinets.jpg" width="70%" align="center" alt="ARCHER2 cabinets">
 </p>
 
 
@@ -22,8 +22,8 @@ Supercomputers are vast computers that allow us to run large, complex and cuttin
 
 
 <p align="center">
-<a href="../vr"><img src="../images/vr-button.jpg" width="48%" align="center"></a>
-<a href="../duck"><img src="../images/ducks-button.jpg" width="48%" align="center"></a>
-<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="48%" align="center"></a>
-<a href="../outputs"><img src="../images/outputs-button.jpg" width="48%" align="center"></a>
+<a href="../vr"><img src="../images/vr-button.jpg" width="48%" align="center"  alt="Virtual tour" ></a>
+<a href="../duck"><img src="../images/ducks-button.jpg" width="48%" align="center" alt="duck game"></a>
+<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="48%" align="center" alt="data centre game"></a>
+<a href="../outputs"><img src="../images/outputs-button.jpg" width="48%" align="center" alt="supercomputing outputs"></a>
 </p>

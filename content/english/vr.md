@@ -7,7 +7,7 @@ layout: event
 ---
 
 <p align=center>
-<img src="../images/virtual-tour.jpg" width="60%" >
+<img src="../images/virtual-tour.jpg" width="60%" alt="Virtual tour" >
 </p>
 
 <h3 align=center>
@@ -26,7 +26,7 @@ Captured using a Sony A7iv camera, our virtual tour offers high-resolution image
 
 <p align=center>
 <a href="https://kuula.co/share/collection/7c4Jv?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1">
-<img src="./../images/virtual-tour-2.jpg" width="60%">
+<img src="./../images/virtual-tour-2.jpg" width="60%" alt="virtual tour">
 </a></p>
 
 <p align=center>
@@ -34,13 +34,13 @@ Captured using a Sony A7iv camera, our virtual tour offers high-resolution image
 </p>
 
 <p align="center">
-<a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center"></a>
-<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
-<a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center"></a>
+<a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center" alt="duck game"></a>
+<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center" alt="data centre game"></a>
+<a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center" alt="supercomputing outputs"></a>
 </p>
 
 <p align="center">
-<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center" alt="home"></a>
 </p>
 
 

@@ -6,15 +6,8 @@ image: "images/author.jpg"
 layout: event
 ---
 
-
-
-
-
-
-
-
 <p align=center>
-<img src="../images/wee-archie-2.jpg" width="50%" align="center">
+<img src="../images/datacentre.jpg" width="50%" align="center">
 </p>
 
 Supercomputers and the data centres they live in have an impact on the environment, and it is important for these centres to work to reduce this impact. Choices on cooling methods, data centre location, energy sources, and more, all affect the environmental impact of running these systems and data centres.
@@ -25,13 +18,14 @@ Designed to be played on any web-enabled device, we will have tablets available 
  
 A link to an online version of the game will be available here soon.
 
+<p align="center">
 <a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center"></a>
 <a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center"></a>
 <a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center"></a>
-
+</p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="50%" align="center"></a>
+<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>
 
 

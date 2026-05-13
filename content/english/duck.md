@@ -6,14 +6,9 @@ image: "images/author.jpg"
 layout: event
 ---
 
-
-
-
 <p align=center>
 <img src="../images/hook-duck-2.jpg" width="50%" align="center">
 </p>
-
-
 
 Supercomputers are composed of very large numbers of computational cores, all working together to solve these challenges. Our hook-a-duck activity is designed demonstrate what a supercomputer is and how they work in parallel - you have 30 seconds to hook as many ducks as you can!
  
@@ -23,11 +18,12 @@ Catching a single duck is tricky, but achievable. Catching lots of ducks could t
 <img src="../images/hook-duck-1.jpg" width="50%" align="center">
 </p>
 
-
+<p align="center">
 <a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center"></a>
 <a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
 <a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center"></a>
+</p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="50%" align="center"></a>
+<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>

@@ -6,18 +6,28 @@ image: "images/author.jpg"
 layout: event
 ---
 
-<p align="center"><a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="25%" align="center"></a></p>
-
-<a href="../vr"><img src="../images/virtual-tour.jpg" width="30%" align="center"></a>
-<a href="../datacentre"><img src="../images/wee-archie-2.jpg" width="30%" align="center"></a>
-<a href="../outputs"><img src="../images/turbines.jpg" width="30%" align="center"></a>
 
 
 
-**Supercomputers are composed of very large numbers of computational cores, all working together to solve these challenges.**
+<p align=center>
+<img src="../images/hook-duck-2.jpg" width="50%" align="center">
+</p>
 
-<img src="../images/hook-duck.jpg" width="25%" align="center">
 
-- Enjoy our hands on hook the duck activity demonstrating what a supercomputer is. Ideal for all ages.
 
-Catching a duck is tricky.  Catching lots of ducks could take a long time... but if a team work together, can they get the job done faster?
+Supercomputers are composed of very large numbers of computational cores, all working together to solve these challenges. Our hook-a-duck activity is designed demonstrate what a supercomputer is and how they work in parallel - you have 30 seconds to hook as many ducks as you can!
+ 
+Catching a single duck is tricky, but achievable. Catching lots of ducks could take a long time working alone, but if a team work together, could they get the job done faster? What problems might occur? Come and find out first hand! Fun for all ages!
+
+<p align=center>
+<img src="../images/hook-duck-1.jpg" width="50%" align="center">
+</p>
+
+
+<a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center"></a>
+<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
+<a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center"></a>
+
+<p align="center">
+<a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="50%" align="center"></a>
+</p>

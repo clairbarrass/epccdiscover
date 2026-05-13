@@ -25,5 +25,5 @@ At our stand we will have a virtual reality science museum with a range of VR vi
 </p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>

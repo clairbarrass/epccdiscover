@@ -25,5 +25,5 @@ Catching a single duck is tricky, but achievable. Catching lots of ducks could t
 </p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>

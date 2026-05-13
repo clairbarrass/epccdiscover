@@ -40,7 +40,7 @@ Captured using a Sony A7iv camera, our virtual tour offers high-resolution image
 </p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>
 
 

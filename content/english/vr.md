@@ -6,21 +6,17 @@ image: "images/author.jpg"
 layout: event
 ---
 
-<p align="center"><a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="25%" align="center"></a></p>
 
 
 
-<a href="../duck"><img src="../images/hook-duck-2.jpg" width="30%" align="center"></a>
-<a href="../datacentre"><img src="../images/wee-archie-2.jpg" width="30%" align="center"></a>
-<a href="../outputs"><img src="../images/turbines.jpg" width="30%" align="center"></a>
+<p align=center>
+<img src="../images/virtual-tour.jpg" width="60%" >
+</p>
 
 
-
-
-
-
-
-- Explore our virtual reality science museum showcasing different scientific outputs from supercomputers.
+<h3 align=center>
+Explore our virtual reality science museum showcasing different scientific outputs from supercomputers.
+</h3>
 
 
 
@@ -31,18 +27,31 @@ Virtual tours offer a unique opportunity to explore locations remotely, making t
 
 <iframe width="100%" height="640" frameborder="0" allow="xr-spatial-tracking; gyroscope; accelerometer" allowfullscreen scrolling="no" src="https://kuula.co/share/collection/7c4Jv?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1"></iframe>
 
+
+
+<p align=center><a href="https://kuula.co/share/collection/7c4Jv?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1" >Visit the tour on the Kuula site </a></p>
+
 Captured using a Sony A7iv camera, our virtual tour offers high-resolution imagery stitched together into panoramas. Powered by Kuula, the interactive tour allows seamless navigation via desktop, mobile phones, and VR headsets. With VR functionality, users can enjoy a realistic and immersive experience, enhancing engagement and retention of information. We will continue enhancing the tour with additional features such as information bars and audio guides. Stay tuned for an upcoming virtual tour of the ARCHER2 power plant, adding a second room to the experience. Discovering ARCHER2 and its surroundings has never been easier.
 
-[Visit the tour on the Kuula site](https://kuula.co/share/collection/7c4Jv?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1)
+
+
+<p align=center>
 
 <a href="https://kuula.co/share/collection/7c4Jv?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1">
-<img src="./../images/virtual-tour-2.jpg" width="50%">
-</a>
+<img src="./../images/virtual-tour-2.jpg" width="60%">
+</a></p>
 
-*Photographs thanks to Luca Parisi EPCC*
+<p align=center>
+<i>Photograph thanks to Luca Parisi EPCC</i>
+</p>
+
+<a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center"></a>
+<a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
+<a href="../outputs"><img src="../images/outputs-button.jpg" width="30%" align="center"></a>
+
+<p align="center">
+<a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="50%" align="center"></a>
+</p>
 
 
-<img src="../images/virtual-tour.jpg" width="50%" align="center">
 
-
-<img src="../images/virtual-tour-2.jpg" width="30%" align="center">

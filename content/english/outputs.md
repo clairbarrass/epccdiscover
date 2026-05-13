@@ -6,17 +6,9 @@ image: "images/author.jpg"
 layout: event
 ---
 
-
-
-
-
-
-
 <p align=center>
 <img src="../images/turbines.jpg" width="50%" align="center">
 </p>
-
-
 
 ARCHER2 is the latest iteration of the UK National Supercomputing Service, and enables scientists to simulate the world around us in ways that are often impossible (or far too expensive) to study with physical experiments. ARCHER2 is regularly used to study topics such as how jet engines can be made more efficient, how we can design better nuclear reactors, how new drugs might work, how viruses spread, and the effects of climate change to name just a small few.
  
@@ -26,12 +18,12 @@ At our stand we will have a virtual reality science museum with a range of VR vi
 <iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/TSUKUQhUXj8 " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
+<p align="center">
 <a href="../vr"><img src="../images/vr-button.jpg" width="30%" align="center"></a>
 <a href="../duck"><img src="../images/ducks-button.jpg" width="30%" align="center"></a>
 <a href="../datacentre"><img src="../images/datacentre-button.jpg" width="30%" align="center"></a>
-
+</p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/ARCHER2 cabinets.jpg" width="50%" align="center"></a>
+<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>

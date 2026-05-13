@@ -25,7 +25,7 @@ A link to an online version of the game will be available here soon.
 </p>
 
 <p align="center">
-<a href="../royalsociety-test"><img src="../images/home-button.jpg" width="50%" align="center"></a>
+<a href="../royalsociety"><img src="../images/home-button.jpg" width="50%" align="center"></a>
 </p>
 
 
